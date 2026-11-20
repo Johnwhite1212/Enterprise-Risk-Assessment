@@ -172,9 +172,6 @@ The `screenshots` folder contains six project screenshots demonstrating:
 ```text
 enterprise-risk-assessment/
 │
-├── archive/
-│   ├── evidence-tracker.backup-before-cleanup.csv
-│   └── evidence-tracker.before-E010-fix.csv
 │
 ├── documentation/
 │   ├── risk-assessment-methodology.md
