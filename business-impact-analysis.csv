@@ -1,0 +1,6 @@
+﻿Asset,Business Function,Operational Impact,Financial Impact,Customer Impact,Regulatory Impact,Recovery Priority,Proposed RTO,Proposed RPO,Approval Status
+Customer database,Customer account and financial record access,Severe,High,Severe,Potentially High,Critical,4 hours,15 minutes,Pending Business Approval
+Customer portal,Customer account access and service delivery,Severe,High,Severe,Potentially High,Critical,4 hours,15 minutes,Pending Business Approval
+Employee records,Human resources and employee administration,Moderate,Low,Low,Moderate,Medium,24 hours,24 hours,Pending Business Approval
+Internal business application,Internal business operations,Moderate,Moderate,Low,Low,Medium,24 hours,4 hours,Pending Business Approval
+Development environment,Software development and testing,Low,Low,Low,Low,Low,72 hours,24 hours,Pending Business Approval

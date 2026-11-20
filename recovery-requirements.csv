@@ -1,0 +1,5 @@
+﻿Requirement ID,Asset,Requirement Type,Proposed Target,Business Justification,Approval Status,Evidence Status
+BC-001,Customer database,RTO,4 hours,Restore critical customer database within four hours following a disruption,Pending Business Approval,Simulated - Not Collected
+BC-002,Customer database,RPO,15 minutes,Limit customer transaction data loss to no more than fifteen minutes,Pending Business Approval,Simulated - Not Collected
+"BC-003","Customer portal","RTO","4 hours","Restore customer portal access and service delivery within four hours following a disruption.","Pending Business Approval","Simulated - Not Collected"
+"BC-004","Customer portal","RPO","15 minutes","Limit loss of customer portal transaction and account data to no more than fifteen minutes.","Pending Business Approval","Simulated - Not Collected"

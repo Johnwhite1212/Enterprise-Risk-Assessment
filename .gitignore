@@ -1,0 +1,16 @@
+﻿# Backup and temporary files
+archive/
+*.bak
+*.backup
+*.tmp
+
+# Sensitive configuration and credentials
+.env
+.env.*
+!.env.example
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.pem
+*.key
+credentials
